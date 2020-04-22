@@ -1,2 +1,2 @@
-# overcoming-imposter-syndrome
+# Overcoming Imposter Syndrome
 overcoming imposter syndrome
