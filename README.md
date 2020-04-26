@@ -53,6 +53,13 @@ Impostor syndrome (also known as impostor phenomenon, impostorism, fraud syndrom
 - [Managing Stress for Positive Change](https://www.linkedin.com/learning/managing-stress-for-positive-change)
 - [Body Language for Leaders](https://www.linkedin.com/learning/body-language-for-leaders)
 
+## About this work
+
+I came up with the idea of an imposter syndrome curated list, that could help anyone find all the resources at one place, feel free to add any good resources you have, feel free to share any personal story you have related to imposter syndrom or any techniques you feel are helpful for this.
+
 ## Disclaimer about Imposter Syndrome
 
 - [Imposter Syndrome Disclaimer](https://github.com/adriennefriend/imposter-syndrome-disclaimer)
+
+## Licensing
+MIT. Take, adapt, use. And if you want to give me a shout-out on [Twitter](https://twitter.com/Afaq_A_Khan) that feels awesome.
