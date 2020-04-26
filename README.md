@@ -1,11 +1,11 @@
 # Overcoming Imposter Syndrome
 Impostor syndrome (also known as impostor phenomenon, impostorism, fraud syndrome or the impostor experience) is a psychological pattern in which one doubts one's accomplishments and has a persistent internalized fear of being exposed as a "fraud".
 
-## What is it
+## What is Imposter Syndrome
 
 - [Impostor syndrome Wiki](https://en.wikipedia.org/wiki/Impostor_syndrome)
 
-## Blogs on Imposter Syndrome
+## Articles on Imposter Syndrome
 
 - [5 Different Types of Imposter Syndrome (and 5 Ways to Battle Each One)](https://www.themuse.com/advice/5-different-types-of-imposter-syndrome-and-5-ways-to-battle-each-one)
 - [Overcoming Imposter Syndrome](https://hbr.org/2008/05/overcoming-imposter-syndrome)
@@ -22,7 +22,7 @@ Impostor syndrome (also known as impostor phenomenon, impostorism, fraud syndrom
 - [9 Ways to Deal With Imposter Syndrome Before It Hinders Your Success](https://blog.hubspot.com/marketing/impostor-syndrome-tips)
 - [The Impostor Syndrome: Book of Life](https://www.theschooloflife.com/thebookoflife/the-impostor-syndrome/)
 
-## Books
+## Books on Imposter Syndrome
 
 - [The Imposter Syndrome: Why Successful People Often Feel Like Frauds by Hugh Kearns](https://www.goodreads.com/book/show/37797645-the-imposter-syndrome)
 - [The Secret Thoughts of Successful Women by Valerie Young](https://www.goodreads.com/book/show/10878510-the-secret-thoughts-of-successful-women)
@@ -32,7 +32,7 @@ Impostor syndrome (also known as impostor phenomenon, impostorism, fraud syndrom
 - [The Imposter Syndrome Remedy A 30-day Action Plan to Stop Feeling Like a Fraud: The PAME Code to end self sabotage, know your worth, and flourish with by E V Estacio](https://www.goodreads.com/book/show/39939594-the-imposter-syndrome-remedy-a-30-day-action-plan-to-stop-feeling-like-a)
 - [The Imposter Cure: How to stop feeling like a fraud and escape the mind-trap of imposter syndrome by Jessamy Hibberd](https://www.goodreads.com/book/show/53019828-the-imposter-cure)
 
-## Videos on Imposter Syndrome
+## Talks on Imposter Syndrome
 
 - [The Impostor Syndrome (Ground Up Podcast)](https://www.youtube.com/watch?v=FQQPuQtIg4o)
 - [TheSchoolOfLife -The Impostor Syndrome](https://www.youtube.com/watch?v=eqhUHyVpAwE)
@@ -44,7 +44,7 @@ Impostor syndrome (also known as impostor phenomenon, impostorism, fraud syndrom
 - [Own It: Combatting Imposter Syndrome | Meredith Peebles | TEDxOU](https://www.youtube.com/watch?v=Io65fyW1Xy0)
 - [Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech - PyCon 2014](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
-## Courses
+## Courses on Imposter Syndrome
 
 - [Feeling Like A Fraud? Get Over Imposter Syndrome Now. Six Techniques](https://www.udemy.com/course/imposter-syndrome/)
 - [Building Self-Confidence](https://www.linkedin.com/learning/building-self-confidence)
@@ -53,6 +53,6 @@ Impostor syndrome (also known as impostor phenomenon, impostorism, fraud syndrom
 - [Managing Stress for Positive Change](https://www.linkedin.com/learning/managing-stress-for-positive-change)
 - [Body Language for Leaders](https://www.linkedin.com/learning/body-language-for-leaders)
 
-## Disclaimer
+## Disclaimer about Imposter Syndrome
 
 - [Imposter Syndrome Disclaimer](https://github.com/adriennefriend/imposter-syndrome-disclaimer)
