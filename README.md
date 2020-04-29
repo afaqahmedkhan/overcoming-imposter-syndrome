@@ -55,7 +55,7 @@ Impostor syndrome (also known as impostor phenomenon, impostorism, fraud syndrom
 
 ## About this work
 
-I came up with the idea of an imposter syndrome curated list, that could help anyone find all the resources at one place, feel free to add any good resources you have, feel free to share any personal story you have related to imposter syndrom or any techniques you feel are helpful for this.
+I came up with the idea of an imposter syndrome curated list, that could help anyone find all the resources at one place, feel free to add any good resources you have, feel free to share any personal story you have related to imposter syndrome or any techniques you feel are helpful for this.
 
 ## Disclaimer about Imposter Syndrome
 
