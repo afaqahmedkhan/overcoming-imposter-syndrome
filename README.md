@@ -10,6 +10,7 @@ Impostor syndrome (also known as impostor phenomenon, impostorism, fraud syndrom
 - [5 Different Types of Imposter Syndrome (and 5 Ways to Battle Each One)](https://www.themuse.com/advice/5-different-types-of-imposter-syndrome-and-5-ways-to-battle-each-one)
 - [Overcoming Imposter Syndrome](https://hbr.org/2008/05/overcoming-imposter-syndrome)
 - [Here's How to Deal With It](https://time.com/5312483/how-to-deal-with-impostor-syndrome/)
+- [You! Yes YOU!](https://mozilla.github.io/maintainer-cohort/articles/week-1/#you--yes-you)
 - [The Reality of Imposter Syndrome](https://www.psychologytoday.com/us/blog/real-women/201809/the-reality-imposter-syndrome)
 - [Feel like a fraud? You're not alone](https://www.apa.org/gradpsych/2013/11/fraud)
 - [Imposter Syndrome and Social Anxiety Disorder](https://www.verywellmind.com/imposter-syndrome-and-social-anxiety-disorder-4156469)
