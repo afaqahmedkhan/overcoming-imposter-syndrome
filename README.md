@@ -1,4 +1,4 @@
-# Overcoming Imposter Syndrome
+# [Overcoming Imposter Syndrome](https://github.com/afaqahmedkhan/overcoming-imposter-syndrome "Overcoming Imposter Syndrome")
 Impostor syndrome (also known as impostor phenomenon, impostorism, fraud syndrome or the impostor experience) is a psychological pattern in which one doubts one's accomplishments and has a persistent internalized fear of being exposed as a "fraud".
 
 ## What is Imposter Syndrome
